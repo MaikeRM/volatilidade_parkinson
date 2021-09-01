@@ -1,1 +1,0 @@
-# volatilidade_parkinson
