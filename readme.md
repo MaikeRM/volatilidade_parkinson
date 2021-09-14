@@ -7,7 +7,7 @@ Um questionamento que muito Jr. assim como eu já deve ter feito ao mensurar a v
 A próxima questão é: existe na literatura alguma forma de considerar a volatilidade intradiária? Sim, obviamente existe e há muito tempo.
 
 Michael Parkinson em 1980, tem como objetivo estimar a volatilidade de uma série temporal a partir dos preços de High e Low nos fornecendo a seguinte equação:
-<a><img src="https://media-exp1.licdn.com/dms/image/C4D12AQE_c0-HBVyo8A/article-inline_image-shrink_1000_1488/0/1630432150303?e=1637193600&v=beta&t=hucELPLSvgsf18X0NiYYvXaebCQtwlDaAWGFJiUSUxk" width="50%"/></a>
+<a><img src="https://media-exp1.licdn.com/dms/image/C4D12AQE_c0-HBVyo8A/article-inline_image-shrink_1000_1488/0/1630432150303?e=1637193600&v=beta&t=hucELPLSvgsf18X0NiYYvXaebCQtwlDaAWGFJiUSUxk" width="25%"/></a>
 
 Novidade para alguns, assunto batido para outros, mas a intenção é sempre alcançar os desavisados. Caso você ainda utilize a vol histórica fica a dica de implementação.
 
