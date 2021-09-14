@@ -14,8 +14,10 @@ Novidade para alguns, assunto batido para outros, mas a intenção é sempre alc
 <a><img src="https://media-exp1.licdn.com/dms/image/C4D12AQH43Ha7cPAFSQ/article-inline_image-shrink_1500_2232/0/1630432465174?e=1637193600&v=beta&t=Ra8AUoVi9m71cRFueGf4BTzeWhyR8huCMt7ZrGdvjY4"  width="80%"/></a>
 
 
-Segue o código completo no github: https://github.com/MaikeRM/volatilidade_parkinson.git
-
 Referências
 
 [1] E. Sinclair, Volatility Trading, John Wiley & Sons, 2008
+
+Please, cite this work:
+
+Mota, Maike (2021), “Volatilidade Histórica Parkinson published at the “Open Code Community””, Mendeley Data, V1, doi: 10.17632/52wrtmtsrh.1
