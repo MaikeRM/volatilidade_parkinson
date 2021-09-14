@@ -1,40 +1,4 @@
----
-
-title: "Volatilidade Histórica Parkinson - python"
-
-categories: []
-
-# MUDE APENAS ANO DIA E MES PARA O DIA QUE VOCE NOS ENVIOU
-date: '2021-09-02T00:00:00Z' 
-
-draft: no
-
-featured: no
-
-gallery_item: null
-
-image:
-  caption: 
-  focal_point: 
-  preview_only: 
-
-projects: []
-
-subtitle: null
-
-summary: null
-
-# DIGITE NA LISTA ABAIXO OS TRACKS DO SEU CODIGO
-tags: 
-- Open Data
-
-# DIGITE NA LISTA ABAIXO O NOME DE TODOS OS AUTORES SEM ESPACOS
-authors:
-- MaikeRMOta
-
-
----
-
+Volatilidade Parkinson
 
 Um questionamento que muito Jr. assim como eu já deve ter feito ao mensurar a volatilidade histórica: se analisarmos apenas o fechamento dos preços, perdemos dados da movimentação intradiária do papel, ou seja, se o preço de fechamento do ativo em D-1 foi 10 dinheiros, e o fechamento de hoje é 10 dinheiros a variação da vol é mínima dependendo do modelo que estiver utilizando.
 
